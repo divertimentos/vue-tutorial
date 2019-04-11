@@ -7,3 +7,9 @@ var app  = new Vue({
     }
 })
 
+var details = new Vue({
+    el: '#details-page',
+    data: {
+        productdetails: 'lorem ipsum dolor veritasium ensiferum et piper refrescus est.',
+    }
+})
