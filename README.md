@@ -6,5 +6,4 @@
 
 * Conectar o Vue a classes no HTML através de *expressions*
 * Injetar imagens na página usando o Vue
-* 
 
